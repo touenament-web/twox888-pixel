@@ -1,0 +1,7 @@
+{
+  "name": "YES WIN - Color Trading Platform",
+  "description": "A high-performance mobile-friendly color trading application with user and admin panels, deposit/withdrawal systems, and real-time game controls.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
